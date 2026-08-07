@@ -43,6 +43,7 @@ The client — the Category Manager for chips — wanted to better understand:
 | **Price per Unit** | Mainstream Young/Midage Singles/Couples pay the highest price per unit ($4.07 / $3.99); confirmed **statistically significant** via independent t-test (p < 0.05) |
 | **Brand Affinity** | Target segment (Mainstream–Young Singles/Couples) over-indexes on Tyrrells, Twisties, Doritos, Kettle, and Tostitos |
 | **Pack Size Affinity** | Same segment prefers larger pack sizes (270g, 330g, 380g) over the category-average favourite (150g–175g) |
+|**Pack Size Preference by Lifestage** | Analyzed how specific customer lifestages (e.g., Mainstream Young Singles/Couples) prefer particular pack sizes, visualized through a Python-based matplotlib bar chart to drive targeted category management strategies.|
 
 ## 💡 Commercial Recommendation
 
